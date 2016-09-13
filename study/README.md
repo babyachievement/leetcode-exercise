@@ -35,6 +35,7 @@
 * Spring
 * Dubbo，Protobuf, Thrift,Hessian
 * Kafka,RabbitMQ,ActiveMQ
+* Junit,Harmcrest,Mockito
 
 ## 5. 项目管理
 

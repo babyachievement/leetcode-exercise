@@ -17,5 +17,5 @@ footer
 参考
 [写出好的git commit messages](http://ruby-china.org/topics/15737)
 [git commit message](https://wiki.openstack.org/wiki/GitCommitMessages)
-
+[怎么写出好的Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 ##
